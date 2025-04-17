@@ -12,7 +12,7 @@ Este documento centraliza as principais referências técnicas para implementaç
    - Requisitos de implementação
    - Recomendações por tipo de negócio
 
-2. **[Configurar o acompanhamento de conversões do site]([https://support.google.com/google-ads/answer/12216424?hl=pt-BR](https://support.google.com/tagmanager/answer/6106009?sjid=2661726098372043519-SA))**
+2. **[Configurar o acompanhamento de conversões do site](https://support.google.com/tagmanager/answer/6106009?sjid=2661726098372043519-SA))**
    - Implementação passo a passo
    - Opções de tag: global site tag vs. GTM
    - Verificação e solução de problemas
